@@ -13,15 +13,34 @@
      3. Create Policy : To provide the necessary permissions.
      4. Attach Policy to Role.
 2. Snowflake
-     1. File Format Creation : CSV FILE/ Other file
-     2. Create Storage Integration
+     1. Table Creation
+        1. Create Table Command
+        2. Primary Key and Foregin Key Concept
+     3. File Format Creation : CSV FILE/ Other file
+     4. Create Storage Integration
           1. Role ARN
           2. Bucket URL
-     3. Create Stage
+     5. Create Stage
           1. Bucket URL
           2. File Fomat
-     4. Create Pipe : Provide SQS ARN to S3 Bucket Event Notification
+     6. Create Pipe : Provide SQS ARN to S3 Bucket Event Notification
+   
 # Data Transformation
+1. Year Updation
+   1. Use of Update Command
+2. Age Column Creation
+   1. Use of Alter Command
+   2. Use of Update Along with Sub-Query.
+3. Checking Null Values
+    1. Use of IS NULL Value
+4. Null Value Treatement as per Requirements
+   1. USe of Update
+5. For other exploration Task
+   1. Group By
+   2. Having Clause
+   3. Case When Statement
 # Ad-Hoc Analysis
+1. Demographic Variation in the data
+
 # KPI Creation
 # Dashboard Creation
