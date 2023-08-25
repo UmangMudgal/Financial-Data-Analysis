@@ -15,11 +15,11 @@
 2. Snowflake
      1. File Format Creation : CSV FILE/ Other file
      2. Create Storage Integration
-          a. Role ARN
-          b. Bucket URL
+          1. Role ARN
+          2. Bucket URL
      3. Create Stage
-          a. Bucket URL
-          b. File Fomat
+          1. Bucket URL
+          2. File Fomat
      4. Create Pipe : Provide SQS ARN to S3 Bucket Event Notification
 # Data Transformation
 # Ad-Hoc Analysis
